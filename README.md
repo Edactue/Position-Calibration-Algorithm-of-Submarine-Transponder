@@ -1,2 +1,12 @@
-# Position Calibration Algorithm of Submarine Transponder
+# 海底应答器位置标定算法测试
 使用matlab实现的基于高斯牛顿迭代法的定位算法——用于海底应答器位置标定测试
+
+---
+## 测试数据
+船舶位置数据：boat_position.mat
+参考位置数据：data_position.mat
+单程时延数据：time_delay.mat
+声速剖面：sound_speed.mat
+
+---
+
